@@ -1,4 +1,4 @@
-# Hellow Word IA
+# Hello Word IA
 Este repositório contém um script Python que implementa um cliente de chat usando a biblioteca `requests` para comunicação com uma API de LLM local (via llmstudio) e `rich` para exibição estilizada no terminal. A lógica foca em extrair "pensamentos" (Think) e respostas finais da IA, tudo posicionado em português do Brasil.
 
 ---
@@ -28,8 +28,8 @@ O script:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/JhonAI13/HELLOW_WORD_IA
-   cd HELLOW_WORD_IA
+   git clone https://github.com/JhonAI13/HELLO_WORD_IA
+   cd HELLO_WORD_IA
    ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
@@ -57,7 +57,7 @@ O script:
 ## 📂 Estrutura do Código
 
 ```
-HELLOW_WORD_IA.py       # Script principal
+HELLO_WORD_IA.py       # Script principal
 requirements.txt  # Dependências do projeto
 .env.example      # Exemplo de arquivo de variáveis de ambiente
 ```
@@ -93,7 +93,7 @@ requirements.txt  # Dependências do projeto
 Execute o script:
 
 ```bash
-python HELLOW_WORD_IA.py
+python HELLO_WORD_IA.py
 ```
 
 No terminal, digite suas mensagens; para sair, digite `sair`, `exit` ou `quit`.
