@@ -57,7 +57,7 @@ O script:
 ## 📂 Estrutura do Código
 
 ```
-HELLO_WORD_IA.py       # Script principal
+app.py       # Script principal
 requirements.txt  # Dependências do projeto
 .env.example      # Exemplo de arquivo de variáveis de ambiente
 ```
